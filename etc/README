@@ -11,7 +11,7 @@ please see the LICENSE file for details.
 System Requirements
 -------------------
 
-TWM Email Framework for PHP requires a PHP enabled web server, with PHP
+TWM ConfigLoader Framework for PHP requires a PHP enabled web server, with PHP
 version 4.1.0 or higher.
 
 
