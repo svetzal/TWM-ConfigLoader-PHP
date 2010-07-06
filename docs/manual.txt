@@ -1,0 +1,12 @@
+TWM Config Framework for PHP
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ChangLog
+--------
+
+1.0.1 - 2005-11-12
+  - cleaned up access to non-existent array keys to avoid PHP warnings on strict servers
+
+1.0.0 - 2004-05-15
+  - initial general release
+
